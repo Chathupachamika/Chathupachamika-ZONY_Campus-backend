@@ -1,0 +1,35 @@
+server:
+  port: 9090
+
+paypal:
+  mode: sandbox
+  client:
+    id: AXF3IX8bmXTk3ogAOySIZrRb0S9tTRJGQmcwC9_0m-KucXXWzjF4uD412FAWK1lWoXWdO4LxBgDvtU9U
+    secret: ECB-vp_BI3nCivfdO3RU2eIgcKKpW_-ONEQmlwLGHbdFYQ3VaMHXfFVgc3bMGLw5XiOHBh-wMX08mChZ
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/campus
+    username: root
+    password: 1234
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: chathupachamika765@gmail.com
+    password: hzwwtarfzjoxedqc
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+ai:
+  api:
+    url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent
+    key: AIzaSyDUu0O3HKgphSEJIBE4u3FAfF2EW0ruiek
