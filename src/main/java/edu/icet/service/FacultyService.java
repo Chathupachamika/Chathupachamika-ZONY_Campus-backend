@@ -1,7 +1,6 @@
 package edu.icet.service;
 
 import edu.icet.dto.Faculty;
-import edu.icet.dto.Register;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;

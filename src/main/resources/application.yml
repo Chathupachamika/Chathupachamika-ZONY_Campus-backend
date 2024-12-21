@@ -32,4 +32,4 @@ spring:
 ai:
   api:
     url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent
-    key: AIzaSyDUu0O3HKgphSEJIBE4u3FAfF2EW0ruiek
+    key: AIzaSyD6ZHzDqnd3rvmkLVMLV6IV5LsPsOyEvBQ

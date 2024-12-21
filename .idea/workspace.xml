@@ -4,15 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c237eddf-1268-4dcc-9147-c32461c738c5" name="Changes" comment="update commit">
+    <list default="true" id="66ac7fe5-4466-4097-a7df-8262d407f5fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/config/OpenAiConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/CustomBotController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/ChatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/ChatGPTRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/MessageRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/ChatGptResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/MessageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/config/PaypalConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/config/PaypalConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/CoursesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/CoursesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/EmailSenderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/EmailSenderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/FacultyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/FacultyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LecturerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LecturerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/PaypalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/PaypalController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/ProgramController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/ProgramController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/RegisterController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Faculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Faculty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Lecturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/MessageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/MessageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/MessageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/MessageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/PayDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/PayDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Register.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/CourseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/CourseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/FacultyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/FacultyEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/LecturerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/LecturerEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/ProgramEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/ProgramEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/RegisterEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/RegisterEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/repository/CourseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/repository/CourseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/repository/FacultyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/repository/FacultyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/repository/LecturerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/repository/LecturerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/repository/ProgramRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/repository/ProgramRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/repository/RegisterRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/repository/RegisterRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/EmailSenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/EmailSenderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/FacultyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/FacultyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/LecturerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/LecturerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/PaypalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/PaypalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/ProgramService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/ProgramService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/RegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/RegisterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/CourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/FacultyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/FacultyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/LecturerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/LecturerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/ProgramServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/ProgramServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/RegisterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/service/impl/RegisterServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,23 +66,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Chathupachamika&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Chathupachamika/ZONY_Campus-backend.git&quot;,
-    &quot;accountId&quot;: &quot;c754ab42-78fd-4958-9295-09571c14ac32&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2p7rxzjDTLPJX1ZYP5c1pV1iR8Q" />
+  <component name="ProjectId" id="2qUVxJUWCtTm9LNaHU2cmWeZsSo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,23 +77,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
-    "Maven.adoo [clean,install].executor": "Run",
+    "Maven.new [clean].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/project final/backend Campus-Manageent-System"
+    "last_opened_file_path": "C:/ICD110/zony campus/backend"
   }
 }]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean install" />
+      <command value="mvn clean" />
     </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.icet.Main" />
-      <module name="adoo" />
+      <module name="new" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.icet.*" />
@@ -83,25 +113,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c237eddf-1268-4dcc-9147-c32461c738c5" name="Changes" comment="" />
-      <created>1732128208275</created>
+      <changelist id="66ac7fe5-4466-4097-a7df-8262d407f5fa" name="Changes" comment="" />
+      <created>1734717387517</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732128208275</updated>
+      <updated>1734717387517</updated>
     </task>
-    <task id="LOCAL-00001" summary="update commit">
-      <option name="closed" value="true" />
-      <created>1732129877844</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1732129877844</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="update commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="update commit" />
   </component>
 </project>

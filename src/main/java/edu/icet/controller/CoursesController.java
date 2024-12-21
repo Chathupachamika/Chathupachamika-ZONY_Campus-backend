@@ -1,9 +1,7 @@
 package edu.icet.controller;
 
 import edu.icet.dto.Course;
-import edu.icet.dto.Register;
 import edu.icet.service.CourseService;
-import edu.icet.service.RegisterService;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +10,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
