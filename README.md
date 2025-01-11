@@ -186,3 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Chathupa Chamika - [chathupachamika765@gmail.com]
 
 Project Link: [https://github.com/Chathupachamika/ZONY_Campus-backend](https://github.com/Chathupachamika/ZONY_Campus-backend)
+
+---
+Made with ❤️ by the Chathupa Chamika
